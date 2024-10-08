@@ -1,0 +1,32 @@
+[
+    {
+        "name": "test",
+        "email": "example@gmail.com",
+        "constraints": ["test2"]
+    },
+    {
+        "name": "test2",
+        "email": "example@gmail.com",
+        "constraints": []
+    },
+    {
+        "name": "test3",
+        "email": "example@gmail.com",
+        "constraints": []
+    },
+    {
+        "name": "test4",
+        "email": "example@gmail.com",
+        "constraints": []
+    },
+    {
+        "name": "test5",
+        "email": "example@gmail.com",
+        "constraints": []
+    },
+    {
+        "name": "testeri",
+        "email": "",
+        "constraints": []
+    }
+]
